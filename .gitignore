@@ -1,0 +1,36 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug / temp files
+captcha_b64.txt
+debug_login.py
+ocr_captcha.py
+ocr_file.py
+solve_captcha.py
+solve_captcha2.py
+credit_statistics_console.py
+
+# Playwright MCP
+.playwright-mcp/
